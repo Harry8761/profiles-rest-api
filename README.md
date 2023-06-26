@@ -16,3 +16,6 @@ Profiles REST API course code.
 # We update the name an year in the gievn template of license.
 
 # Then we commit to git
+
+# S-1 use command "git add ." -> to make these files ready for commit
+# S-2 use command "git commit -am 'Message with commit'" -> this will add the files along with message given
